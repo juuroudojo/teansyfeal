@@ -21,7 +21,7 @@
 
 <!-- third image -->
 <p align="center">
-  <img src="https://github.com/teansyfeal/teansyfeal/blob/main/tumblr_3413c29b3b332f18ebddd72e8867bdd7_66331739_540.gif" height="250"/>
+  <img src="https://github.com/teansyfeal/teansyfeal/blob/main/tumblr_3413c29b3b332f18ebddd72e8867bdd7_66331739_540.gif"/>
 </p>
 <!-- 
 <!-- third image 
