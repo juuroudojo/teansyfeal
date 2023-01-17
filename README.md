@@ -1,8 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3200&pause=1000&color=00F76C&background=FF20D100&center=true&width=970&lines=WIRED+WIRED+WIRED+WIRED+lain;WIRED+WIRED+lain+WIRED+flair+WIRED+WIRED;tePZvj5oGc%2FV9MJJGXlIW274fXvxAFczgjDAlWvvcE)](https://git.io/typing-svg)
 
-<img src="https://github.com/teansyfeal/teansyfeal/blob/main/crossylum.gif" height="250"/> 
-<img src="https://github.com/teansyfeal/teansyfeal/blob/main/tumblr_3413c29b3b332f18ebddd72e8867bdd7_66331739_540.gif" height="250"/>  
+<!--<img src="https://github.com/teansyfeal/teansyfeal/blob/main/crossylum.gif" height="250"/> 
 <img src="https://github.com/teansyfeal/teansyfeal/blob/main/cyber-punk-glitch.gif" height="250"/>
+-->
+<img src="https://github.com/teansyfeal/teansyfeal/blob/main/tumblr_3413c29b3b332f18ebddd72e8867bdd7_66331739_540.gif" height="250"/>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alice&size=34&duration=7000&pause=1000&color=EA9EF8&background=FF20D100&center=true&width=970&lines=74+65+50+5a+76+6a+35+6f+47+63+2f+56+39+4d+20+4a+4a+47+58+6c+49+57+32+37+34+66+58;%E7%9B%B2%E8%9B%87%E3%81%AB%E6%80%96%E3%81%98%E3%81%9A)](https://git.io/typing-svg)
 
