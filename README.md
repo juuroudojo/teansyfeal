@@ -1,5 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=X992+Code&size=24&duration=2400&pause=1000&color=EA9EF8&background=FF20D100&center=true&width=1000&lines=The+virtual+world+is+built+on+data,+shape+it+or+be+shaped+by+it;%E4%BA%BA%E7%94%9F%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%9C%80%E3%82%82%E9%87%8D%E8%A6%81%E3%81%AA%E3%81%93%E3%81%A8%E3%81%AF%E3%80%81%E8%87%AA%E5%88%86%E3%81%8C%E4%BD%95%E3%82%92%E6%9C%9B%E3%82%80%E3%81%8B%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%A4%E3%81%8B%E3%81%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%81;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=X992+Code&size=24&duration=2400&pause=1000&color=EA9EF8&background=FF20D100&center=true&width=1000&lines=%E4%BA%BA%E7%94%9F%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%9C%80%E3%82%82%E9%87%8D%E8%A6%81%E3%81%AA%E3%81%93%E3%81%A8%E3%81%AF%E3%80%81%E8%87%AA%E5%88%86%E3%81%8C%E4%BD%95%E3%82%92%E6%9C%9B%E3%82%80%E3%81%8B%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%A4%E3%81%8B%E3%81%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%81;)](https://git.io/typing-svg)
 
+<!--The+virtual+world+is+built+on+data,+shape+it+or+be+shaped+by+it;-->
 <!-- first image 
 <p align="center">
   <img src="https://github.com/teansyfeal/teansyfeal/blob/main/crossylum.gif" height="250"/>
