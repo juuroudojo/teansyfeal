@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3200&pause=1000&color=EA9EF8&background=FF20D100&center=true&width=970&lines=The+virtual+world+is+built+on+data,+shape+it+or+be+shaped+by+it;%E7%9B%B2%E8%9B%87%E3%81%AB%E6%80%96%E3%81%98%E3%81%9A;In+a+world+ruled+by+data,+the+truth+is+often+hidden+in+the+code;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2400&pause=1000&color=EA9EF8&background=FF20D100&center=true&width=1000&lines=The+virtual+world+is+built+on+data,+shape+it+or+be+shaped+by+it;%E7%9B%B2%E8%9B%87%E3%81%AB%E6%80%96%E3%81%98%E3%81%9A;In+a+world+ruled+by+data,+the+truth+is+often+hidden+in+the+code;)](https://git.io/typing-svg)
 
 <!-- first image 
 <p align="center">
